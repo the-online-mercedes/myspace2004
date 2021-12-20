@@ -1,0 +1,482 @@
+<!-- MySpace05 -->
+
+<title>OurPlace.com - a place for friends</title>
+<meta http-equiv="Pragma" content="no-cache">
+<link rel="STYLESHEET" type="text/css" href="http://www.myspace.com/includes/myspace.css">
+<script language="Javascript" src="http://www.myspace.com/js/oas.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript">
+function ChangeAction() {
+if (document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='Myspace')
+{
+document.SearchFormTop.action = 'index.cfm?fuseaction=advancedFind.results';
+}
+else if (document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='Web')
+{
+document.SearchFormTop.action = 'index.cfm?fuseaction=advancedFind.results&websearch=1';
+}
+else if ((document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='G')||(document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='Mu') || (document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='M') || (document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value=='B'))
+{
+document.SearchFormTop.action = 'index.cfm?fuseaction=find&circuitaction=search&searchType=network&f_first_name=&x=30&y=13&InterestType='+document.SearchFormTop.searchtype.options[document.SearchFormTop.searchtype.selectedIndex].value+'&f_search_criteria='+document.SearchFormTop.searchrequest.value;
+}
+else 
+{
+document.SearchFormTop.action = 'index.cfm?fuseaction=advancedFind.results&websearch=1';
+}
+return true;
+} 
+
+
+ 
+</script></head> 
+
+
+
+
+
+
+
+
+	
+
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onload="document.theForm.email.focus();" alink="4e607b" link="4e607b" vlink="4e607b"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
+</div><div id="wm-ipp-print">The Wayback Machine - http://www.myspace.com:80/index.cfm?fuseaction=splash</div>
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3Ahttp%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dsplash" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(650,27,25,2,"web","http://www.myspace.com/index.cfm?fuseaction=splash","20040610090214",1996,"/_static/",["/_static/css/banner-styles.css?v=omkqRugM","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div align="center"> 
+ 
+</div>
+<div align="center"> 
+
+
+
+  <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  		   <tbody><tr> 
+      		<td height="25" valign="middle" bgcolor="#6698CC">
+			
+
+<!-- ms07 -->
+
+
+
+<title>Myspace.com</title>
+
+<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking">
+<meta name="description" content="Find old friends and meet new friends as you network, share photos, create blogs, and more at MySpace.com">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<link rel="STYLESHEET" type="text/css" href="http://i.myspace.com/site/css/myspace.css">
+<script language="JavaScript" src="http://www.myspace.com/js/myspace.js"></script>
+
+<script language="Javascript" src="http://www.myspace.com/js/oas.js"></script>
+
+
+
+
+
+
+
+<div id="tipDiv" style="position:absolute; visibility:hidden; z-index:100"></div>
+
+<div align="center">	
+
+
+							
+						
+
+	
+	<table width="800" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="003399">
+		<form action="http://www.myspace.com/index.cfm?fuseaction=advancedFind.results" method="post"></form>
+		<tbody><tr> 
+			<td>&nbsp;<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=splash"><font color="FFFFFF">MySpace.com</font></a>&nbsp;  
+			<font color="FFFFFF">|</font>&nbsp;
+			
+			<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=splash">
+		   
+		    <font color="FFFFFF">Home</font></a> 
+			  </td>
+			<td align="right"><font color="FFFFFF" size="1">Search MySpace:&nbsp;<input style="FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif" name="searchrequest" type="text" size="25" maxlength="75">&nbsp;&nbsp;&nbsp;<input type="submit" value="Go" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10px; background-color:E0FFFF;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/faq.html" target="_new"><font color="FFFFFF">Help</font></a>&nbsp;<font color="FFFFFF" size="1">|</font>&nbsp;
+			
+				<a class="man" href="http://www.myspace.com/index.cfm?fuseaction=Join"><font color="FFFFFF">SignUp</font></a>&nbsp;
+				
+			</font></td>	
+		</tr>
+		
+	</tbody></table>
+	<table width="800" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="96" align="center" valign="top" bgcolor="003399"> 
+				
+				<br>
+					<table border="1" cellspacing="0" cellpadding="0" bordercolor="000000">
+						<tbody><tr valign="top" bgcolor="FFFFFF"> 
+							<td align="center" valign="middle"><img src="http://i.myspace.com/site/images/blog/blogLogo.gif" border="0" alt=""></td>
+							<td> 
+								<script language="Javascript">
+									<!-- 
+										oas_ad("www.myspace.com/index","Top");
+									//-->
+								</script><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://ads.euniverseads.com/RealMedia/ads/adstream_sx.cgi/www.myspace.com/index/1232399425@Top?undefined"></iframe>
+							</td>
+						</tr>
+					</tbody></table>
+				
+			</td>
+		</tr>
+	</tbody></table>
+
+</div>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="800">
+      <tbody><tr> 
+        <td width="800" height="26" bgcolor="6698CB"> 
+		  <table width="800" height="26" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+               <td align="center" valign="middle"><div align="center"><font face="Arial, Helvetica, sans-serif" color="#000000">
+			   
+					<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=splash&amp;Mytoken=20040610020420">Home</a> &nbsp; | &nbsp;
+				
+                <a class="navbar" href="http://browse.myspace.com/index.cfm?fuseaction=browse&amp;Mytoken=20040610020420&amp;run=1">Browse</a> &nbsp; | &nbsp; 
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=find&amp;Mytoken=20040610020420">Search</a> &nbsp; | &nbsp; 
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=invite&amp;Mytoken=20040610020420">Invite</a> &nbsp; | &nbsp; 
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=RateImage.rate&amp;Mytoken=20040610020420">Rank</a> &nbsp; | &nbsp;
+
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=mail.inbox&amp;Mytoken=20040610020420">Mail</a> &nbsp; | &nbsp; 
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=blog&amp;Mytoken=20040610020420">Blog</a> &nbsp; | &nbsp;
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=user.favorites&amp;Mytoken=20040610020420">Favorites</a> &nbsp; | &nbsp; 
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=messageboard.categories&amp;Mytoken=20040610020420">Forum</a> &nbsp; | &nbsp;
+				<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=groups.categories&amp;Mytoken=20040610020420">Groups</a> &nbsp; | &nbsp;
+                <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=games&amp;Mytoken=20040610020420">Games</a> &nbsp; | &nbsp; 
+				 <a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=music&amp;Mytoken=20040610020420">Music</a> &nbsp; | &nbsp; 
+				<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=classifieds&amp;Mytoken=20040610020420">Classifieds</a>
+				
+				
+				
+					
+						&nbsp; | &nbsp;
+						<a class="navbar" href="http://www.myspace.com/index.cfm?fuseaction=join">SignUp</a>
+					
+					
+					
+				
+				</font></div>
+               </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+</tbody></table>
+
+
+		  </td>
+    </tr>
+    
+  </tbody></table>
+  
+  
+</div>
+ 
+<table width="800" border="0" align="center" cellpadding="10" cellspacing="0">
+  <tbody><tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="1">
+        <tbody><tr> 
+          <td valign="top"> 
+		  
+		    
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr bgcolor="#ffcc99"> 
+                <td width="7" height="23" valign="top"><img src="http://www.myspace.com/images/1by1.gif" width="1" height="1"></td>
+                <td height="23" valign="middle" bgcolor="#ffcc99"> 
+                  <div align="left"><strong><font color="#000000">Cool New People</font></strong></div></td>
+              </tr>
+            </tbody></table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="1">
+              <tbody><tr>
+                <td valign="top" bgcolor="#FFCC99">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td valign="top" bgcolor="#FFFFFF"> 
+                        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tbody><tr> 
+						  
+							  	
+                            <td width="25%" align="center" valign="top">
+							   <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                <tbody><tr> 
+                                  <td valign="top"><div align="center"><a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182467&amp;Mytoken=20040610020420" class="man">Nikki</a></div></td>
+                                </tr>
+                              </tbody></table>
+		                             <a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182467&amp;Mytoken=20040610020420"><img width="90" src="http://i.myspace.com/76/42/2182467/10931467_s.jpg" border="0"></a><br>
+									
+                            </td><td width="25%" align="center" valign="top">
+							   <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                <tbody><tr> 
+                                  <td valign="top"><div align="center"><a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182451&amp;Mytoken=20040610020420" class="man">Haley</a></div></td>
+                                </tr>
+                              </tbody></table>
+		                             <a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182451&amp;Mytoken=20040610020420"><img width="90" src="http://i.myspace.com/15/42/2182451/10934300_s.gif" border="0"></a><br>
+									
+                            </td><td width="25%" align="center" valign="top">
+							   <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                <tbody><tr> 
+                                  <td valign="top"><div align="center"><a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182449&amp;Mytoken=20040610020420" class="man">Leiah</a></div></td>
+                                </tr>
+                              </tbody></table>
+		                             <a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182449&amp;Mytoken=20040610020420"><img width="90" src="http://i.myspace.com/94/42/2182449/10933024_s.JPG" border="0"></a><br>
+									
+                            </td><td width="25%" align="center" valign="top">
+							   <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                <tbody><tr> 
+                                  <td valign="top"><div align="center"><a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182447&amp;Mytoken=20040610020420" class="man">Rachel</a></div></td>
+                                </tr>
+                              </tbody></table>
+		                             <a href="http://www.myspace.com/index.cfm?fuseaction=user.viewProfile&amp;friendID=2182447&amp;Mytoken=20040610020420"><img width="90" src="http://i.myspace.com/74/42/2182447/10930829_s.jpg" border="0"></a><br>
+									 
+									<br>
+							 </td>		
+                             
+							 
+	
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table> 
+                </td>
+              </tr>
+            </tbody></table>
+   
+            <br>
+		 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="7" height="23" valign="top" bgcolor="#B5CCFB"><img src="http://www.myspace.com/images/1by1.gif" width="1" height="1"></td>
+                <td width="345" height="23" valign="middle" bgcolor="#B5CCFB"><div align="left"><strong><font color="#000000">MySpace 
+                    Member Blogs</font></strong></div></td>
+                <td width="106" valign="middle" bgcolor="#B5CCFB"><div align="right"><a href="#" class="man" onmousedown="MM_openBrWindow('misc/help_pop_blog.html','','width=300,height=113')"><font size="1">[what's 
+                    this?]</font></a>&nbsp;&nbsp;</div></td>
+              </tr>
+            </tbody></table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr valign="top"> 
+                <td width="50%"> 
+				<p>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=268360">KyDd </a><br>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=702294">Nathan </a><br>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=258913">Joe </a><br>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=83721">nieyz nieyz </a><br>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=1997307">Chance </a><br>
+				
+				<br>
+				</p></td>
+				 <td width="50%"> 
+				<p>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=2195629">outrulethestars</a><br>
+				
+				 <font class="man">02:01a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=1948372">Crystal</a><br>
+				
+				 <font class="man">01:59a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=2139803">Joel</a><br>
+				
+				 <font class="man">01:59a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=2170025">$5 HOE [victoria]</a><br>
+				
+				 <font class="man">01:59a</font> - <a class="man" href="http://www.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=250481">♥CoLey CaKeS&amp;</a><br>
+				
+				<br>
+				</p></td>
+				
+                  
+              </tr>
+            </tbody></table>
+            <br> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="7" height="23" valign="top" bgcolor="#B5CCFB"><img src="http://www.myspace.com/images/1by1.gif" width="1" height="1"></td>
+                <td width="344" height="23" valign="middle" bgcolor="#B5CCFB"><div align="left"><strong><font color="#000000">MySpace 
+                    Music</font></strong></div></td>
+                <td width="107" valign="middle" bgcolor="#B5CCFB"><div align="right"><a class="man" href="index.cfm?fuseaction=music"><font size="1">[more 
+                    music]</font></a>&nbsp;&nbsp;</div></td>
+              </tr>
+            </tbody></table>
+			
+<script language="Javascript">
+<!-- 
+	oas_ad("www.myspace.com/index","x88");
+//-->
+</script><iframe width="460" height="140" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://ads.euniverseads.com/RealMedia/ads/adstream_sx.cgi/www.myspace.com/index/1232399425@x88?undefined"></iframe>
+            
+			
+          </td>
+          <td width="14" valign="top" background="http://www.myspace.com/images/divider3.gif"><img src="http://www.myspace.com/images/1by1.gif" width="14" height="1"></td>
+          <td width="30%" valign="top" bgcolor="#FFFFFF" align="center">
+		  <form action="index.cfm?fuseaction=login.process" method="post" name="theForm" id="theForm">
+		  <table width="100%" border="0" cellspacing="0" cellpadding="1">
+              <tbody><tr> 
+                <td valign="top" bgcolor="#003399">
+				  
+				 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                    <tbody><tr> 
+					<td valign="top" bgcolor="#FFFFFF"> <div align="center"><strong><font color="#003399">Member 
+                          Login</font></strong><br>
+						  
+							<input type="hidden" name="NextPage" value="">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="3">
+						  
+						  		
+                            <tbody><tr> 
+                              <td width="28%"><div align="right">E-Mail:</div></td>
+                              
+								<td width="72%"><input type="text" name="email" value="" size="20"></td>
+								
+                            </tr>
+                            <tr> 
+                              <td><div align="right">Password:</div></td>
+                              <td> <input type="password" name="password" size="20"> 
+                              </td>
+                            </tr>
+                            <tr> 
+                              <td colspan="2"><div align="center"> 
+                                  <input type="checkbox" name="Remember" value="Remember">
+                                  Remember my E-mail <br>
+                                  <br>
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+								  	<tbody><tr>
+								         <td width="100%" align="Center"><input type="image" name="Submit22" src="http://www.myspace.com/images/button_login_main.gif" alt="Log In"> &nbsp;&nbsp;&nbsp;<a href="index.cfm?fuseaction=join"><img src="http://www.myspace.com/images/button_signup_main.gif" alt="Sign Up Now!" title="Sign Up Now!" width="68" height="22" border="0"></a></td>
+                                    </tr>
+									 <tr> 
+                                      <td width="100%"><div align="center"><a class="man" href="index.cfm?fuseaction=user.retrievepassword"><font size="1">Forgot your password?</font></a></div><br></td>
+									</tr>	
+                                  </tbody></table>
+                                  
+								  </div></td>
+                            </tr>
+							
+                          </tbody></table>
+						  
+                                           </div></td>
+ 						
+                    </tr>
+                  </tbody></table>
+				   	
+				 
+                </td>
+              </tr>
+			   
+            </tbody></table>
+		
+					<img src="http://www.myspace.com/images/advertisement.gif" alt="" border="0" align="middle">
+            <br>
+            		<script language="Javascript"><!-- 
+								oas_ad( "www.myspace.com/index","x14");
+								//-->
+					</script><iframe width="300" height="300" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://ads.euniverseads.com/RealMedia/ads/adstream_sx.cgi/www.myspace.com/index/1232399425@x14?undefined"></iframe>
+          </form></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<div align="center"> 
+  <table width="780" border="0" cellpadding="5" cellspacing="1" bgcolor="#003399">
+    <tbody><tr valign="top" bgcolor="#B5CCFB"> 
+      <td width="25%"><p><font color="#003399" size="2"><strong>Get Started on MySpace!</strong></font><br>
+          Join for free, and view profiles, connect with others, blog, rank music, 
+          and much more!</p>
+        <p align="right"><font color="#CC0000"><strong>»</strong></font> 
+          <strong><a class="man" href="misc/tour_1.html">Learn More</a></strong></p></td>
+      <td width="25%"><p><font color="#003399" size="2"><strong>Create Your Profile!</strong></font><br>
+          Tell us about yourself, upload your pictures, and start adding friends 
+          to your network!</p>
+        <p align="right"><font color="#CC0000"><strong>»</strong></font> 
+          <strong>
+						<a class="man" href="index.cfm?fuseaction=join">Start Now</a>
+					</strong></p></td>
+      <td width="25%"><p><font color="#003399" size="2"><strong>Browse through 
+          Profiles! </strong></font><br>
+          Read through millions of profiles on MySpace! See pix, read blogs, and 
+          more! </p>
+        <p align="right"><font color="#CC0000"><strong>»</strong></font> 
+          <strong><a class="man" href="http://browse.myspace.com/index.cfm?fuseaction=browse&amp;Mytoken=20040610020420&amp;run=1">Browse Now</a></strong></p></td>
+      <td width="25%"><p><font color="#003399" size="2"><strong>Invite Your Friends!</strong></font><br>
+          Invite your friends, and as they invite their friends your network will 
+          grow even larger!</p>
+        <p align="right"><font color="#CC0000"><strong>»</strong></font> 
+          <strong><a class="man" href="index.cfm?fuseaction=user.invite">Invite Friends Now</a></strong></p></td>
+    </tr>
+  </tbody></table>
+  <br>
+</div>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr bgcolor="#e5e5e5" valign="top"> 
+      <td bgcolor="#e5e5e5"> 
+        <div align="center"> 
+          <div align="center"> 
+            <table width="800" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="center"><a href="#"><br>
+                  &nbsp;&nbsp; <img src="http://www.myspace.com/images/truste.gif" width="116" height="31" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;MySpace 
+                  is a licensee of the TRUSTe Privacy Program</td>
+              </tr>
+            </tbody></table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#e5e5e5" valign="top"> 
+    <td> 
+      <div align="center">
+        <div align="center"><b><font face="Arial, Helvetica, sans-serif"><font color="#990000"><br>
+          </font>
+		  <font color="#003399" size="1" face="Arial, Helvetica, sans-serif">
+            
+		  	<a class="man" href="http://www.myspace.com/misc/about.html?z=1&amp;Mytoken=20040610020420" target="_blank">About</a> &nbsp;&nbsp;| 
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/news.html?z=1&amp;Mytoken=20040610020420" target="_blank">News</a> &nbsp;&nbsp;|  
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/faq.html?z=1&amp;Mytoken=20040610020420" target="_blank">FAQ</a> &nbsp;&nbsp;|  
+		  	&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/terms.html?z=1&amp;Mytoken=20040610020420" target="_blank">Terms</a> &nbsp;&nbsp;| 
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/privacy.html?z=1&amp;Mytoken=20040610020420" target="_blank">Privacy</a> &nbsp;&nbsp;|  
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/contact.html?z=1&amp;Mytoken=20040610020420" target="_blank">Contact</a> &nbsp;&nbsp;|  
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/promote.html?z=1&amp;Mytoken=20040610020420" target="_blank">Promote</a> &nbsp;&nbsp;|  
+			&nbsp;&nbsp;<a class="man" href="http://www.myspace.com/misc/advertise.html?z=1&amp;Mytoken=20040408102352" target="_blank">Advertise</a>&nbsp;&nbsp;&nbsp;| 
+			&nbsp;&nbsp;<a class="man" href="http://www.cafepress.com/myspace" target="_new">MySpace Shop</a>
+            
+			</font></font></b></div><font face="Arial, Helvetica, sans-serif"><font color="#003399" size="1" face="Arial, Helvetica, sans-serif">
+        <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        </font> 
+        <div align="center"> <font size="1" face="Arial, Helvetica, sans-serif">©2003 
+          MySpace.com. All Rights Reserved.</font></div>
+</font></font></div><font face="Arial, Helvetica, sans-serif"><font color="#003399" size="1" face="Arial, Helvetica, sans-serif">
+    </font></font></td>
+  </tr>
+</tbody></table>
+
+
+
+
+            </div></div></td>
+    </tr>
+  </tbody>
+</table>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
